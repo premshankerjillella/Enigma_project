@@ -1,0 +1,10 @@
+body{background-color:#EEE;}
+
+#container{background-color: white;
+color: black
+margin-right: auto;}
+#title{
+	background-color:#66ccff;
+	color: black;
+	text-align: center;
+}
